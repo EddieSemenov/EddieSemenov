@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eddie Semenov</h1>
-<h3 align="center">I'm a mechanical engineering student with a specific interest in making ✨ cool stuff ✨. I also go gym just to sit in front of a computer.</h3>
+<h3 align="center">I'm a mechanical engineering student with a specific interest in making ✨ cool stuff ✨.
+<h4 align="center">I also go gym just to sit in front of a computer.</h3>
 
 <p align="left"> <a href="https://twitter.com/semenoveddie" target="blank"><img src="https://img.shields.io/twitter/follow/semenoveddie?logo=twitter&style=for-the-badge" alt="semenoveddie" /></a> </p>
 
