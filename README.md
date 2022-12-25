@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **similar interests in learning**
 
-- ⚡ Fun fact **I squat to have a bigger cushion when I'm sitting in front of my computer**
+- ⚡ Fun fact **I squat to have a bigger cushion when I sit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
