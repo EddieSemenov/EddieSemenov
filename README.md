@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in mechatronics, robotics and machine learning<br><br>🌱 I’m currently learning Mechanical Engineering Meng and finding out what interests me<br><br>💬 Ask me about similar interests in learning (like ways to learn smarter not harder)<br><br>⚡ Fun fact I squat to have a bigger cushion when I sit on my chair
+👀 I’m interested in mechatronics, robotics and machine learning<br><br>🌱 I’m a design engineer and a robotics hobbyist :) <br><br>💬 Ask me about similar interests in learning (like ways to learn smarter, not harder)<br><br>⚡ Fun fact: I squat to have a bigger cushion when I sit at my desk
 
 
 ## 🌐 Socials:
