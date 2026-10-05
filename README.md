@@ -2,9 +2,9 @@
 
 ### Mechanical Engineer | Robotics, Mechatronics & Automation
 
-I'm a Mechanical Engineering MEng graduate from the University of Nottingham, currently working as a Design Engineer and building robotics, automation and computer vision projects in my spare time.
+I'm a Mechanical Engineering MEng graduate, currently working as a Design Engineer and building robotics, automation and computer vision projects in my spare time.
 
-I'm particularly interested in **robotics, mechatronics, manufacturing automation and Physical AI** — especially the intersection between mechanical systems, electronics and intelligent software.
+I'm particularly interested in **robotics, mechatronics, manufacturing automation and Physical AI** — especially between mechanical systems, electronics and intelligent software.
 
 - 🤖 Currently building and experimenting with **robot arms, embedded systems and computer vision**
 - 🦾 Interested in **Physical AI, robotics and flexible manufacturing automation**
