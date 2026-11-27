@@ -17,8 +17,8 @@ I like owning the whole loop, from CAD and 3D printing through electronics and c
 **PAROL6 + Isaac Sim** *(active)*
 Built and printed a [PAROL6 desktop arm](https://github.com/EddieSemenov/PAROL6-Desktop-robot-arm) and can drive it under my own control. Running a digital twin in Isaac Sim with a ROS 2 (Jazzy) action graph, plus a Python UI for joint control. Next up: an eFlesh-style magnetic tactile gripper for slip detection, designed in sim and heading for real-world testing.
 
-**[eddiesemenov.com](https://eddiesemenov.com)** *(beta)*
-My portfolio, built as an interactive 3D workshop. There's a robot arm you can play with and a nut you can throw around. Next.js on Vercel.
+**[eddiesemenov.com](https://eddiesemenov.com)** *(gamma)*
+My portfolio, built as an interactive 3D workshop. There's a robot arm you can play with and a nut you can throw around. Next.js on Vercel, with the domain and email forwarding through Cloudflare.
 
 **[Finger Gun](https://github.com/EddieSemenov/Finger-Gun)**
 Hand-tracked game in Python and MediaPipe. Point, flex your thumb, "pew".
@@ -58,6 +58,7 @@ Proposed and worked on a production OS for manufacturing SMEs: one place to map 
 ![Next.js](badges/nextjs.svg)
 ![JavaScript](badges/javascript.svg)
 ![Git](badges/git.svg)
+![Cloudflare](badges/cloudflare.svg)
 ![Premiere Pro](badges/premiere-pro.svg)
 
 ## 🌐 Find me
