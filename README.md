@@ -34,34 +34,34 @@ Proposed and worked on a production OS for manufacturing SMEs: one place to map 
 ## 🔧 Tools
 
 **Robotics & simulation**
-![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white)
-![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat&logo=nvidia&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat)
+![ROS 2](badges/ros2.svg)
+![Isaac Sim](badges/isaac-sim.svg)
+![Linux](badges/linux.svg)
+![MediaPipe](badges/mediapipe.svg)
 
 **Programming & embedded**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Python](badges/python.svg)
+![C](badges/c.svg)
+![MATLAB](badges/matlab.svg)
+![Arduino](badges/arduino.svg)
+![ESP32](badges/esp32.svg)
+![Raspberry Pi](badges/raspberry-pi.svg)
 
 **Mechanical**
-![SolidWorks](https://img.shields.io/badge/SolidWorks-EE1F25?style=flat)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white)
-![Abaqus](https://img.shields.io/badge/Abaqus-005386?style=flat)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat)
-![3D Printing](https://img.shields.io/badge/3D%20Printing-555555?style=flat)
+![SolidWorks](badges/solidworks.svg)
+![AutoCAD](badges/autocad.svg)
+![Abaqus](badges/abaqus.svg)
+![Simulink](badges/simulink.svg)
+![3D Printing](badges/3d-printing.svg)
 
 **Web & tools**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
+![Next.js](badges/nextjs.svg)
+![JavaScript](badges/javascript.svg)
+![Git](badges/git.svg)
+![Premiere Pro](badges/premiere-pro.svg)
 
 ## 🌐 Find me
 
-[![Website](https://img.shields.io/badge/Website-eddiesemenov.com-111111?style=flat&logo=googlechrome&logoColor=white)](https://eddiesemenov.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eddie%20Semenov-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/EddieSemenov)
-[![Instagram](https://img.shields.io/badge/Instagram-@eddiesemenov_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/eddiesemenov_)
+[![Website](badges/website.svg)](https://eddiesemenov.com)
+[![LinkedIn](badges/linkedin.svg)](https://linkedin.com/in/EddieSemenov)
+[![Instagram](badges/instagram.svg)](https://instagram.com/eddiesemenov_)
